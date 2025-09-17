@@ -1,0 +1,6 @@
+@Avanade_StockManager_HostAddress = http://localhost:5030
+
+GET {{Avanade_StockManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
